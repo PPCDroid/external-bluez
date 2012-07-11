@@ -42,6 +42,7 @@
 #include <stdlib.h>
 #include <sys/types.h>
 #include <limits.h>
+#include <endian.h>
 
 #include "sbc_math.h"
 #include "sbc_tables.h"
