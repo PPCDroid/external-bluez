@@ -1,6 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 BUILD_BTIOTEST:=0
-BUILD_HCIEMU:=0
+BUILD_HCIEMU:=1
 
 #
 # hstest
